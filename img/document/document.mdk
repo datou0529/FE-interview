@@ -1,0 +1,39 @@
+~ Center
+**何志畏**
+
+男 | 24 |  湖北
+
+中国科学院大学 | 计算机应用技术  | 硕士 | 北京
+
+13020048977 | tony_join@163.com
+~
+---
+
+1. 教育经历
+
+
+* 中国科学院大学  [硕士 · 计算机应用技术]{ margin-left=5ex } [2014.09-至今]{ margin-left=5ex }
+
+- 中南大学       [学士 · 物联网工程]{ margin-left=12ex }    [2010.09-2014.06 ]{ margin-left=9.5ex } 
+
+
+2. 实习经历
+
+   Indent to continue.
+3. Basil.
+
+
+[TITLE]
+
+# Madoko 
+
+Madoko is a fast markdown processor for writing professional articles
+with a focus on simplicity and plain text readability.
+
+* Read the [reference manual].
+* Explore the upper-right toolbox menu to discover how Markdown works. 
+* `Alt-Q` reformats the current paragraph.
+
+Enjoy!
+
+[reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
